@@ -4,10 +4,10 @@
 > A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## Tables of Contents
-- [SecTools.Org: Top 125 Network Security Tools](#sectools.org-top-125-network-security-tools)
+## Table of Contents
+- [SecTools.Org: Top 125 Network Security Tools](#sectools-top-125-network-security-tools)
 - [Kali Tools](#kali-tools)
-- [Multi-paradigm Frameworks](#multi-paradigm-frameworks)
+- [Multi-paradigm Frameworks](#multi--paradigm-frameworks)
 - [Network Vulnerability Scanners](#nework-vulnerability-scanners)
 - [Network Tools](#network-tools)
 
