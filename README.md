@@ -15,6 +15,15 @@
 - [Proxies and MITM Tools](#proxies-and-mitm-tools)
 - [Wireless Network Tools](#wireless-network-tools)
 - [Transport Layer Security Tools](#transport-layer-security-tools)
+- [Web Exploitation](#web-exploitation)
+- [File format Analysis tools](#file-format-analysis-tools)
+- [Anti-virus Evasion Tools](#anti--virus-evasion-tools)
+- [Hash Cracking Tools](#hash-cracking-tools)
+- [DDoS Tools](#ddos-tools)
+- [Social Engineering Tools](#social-engineering-tools)
+- [OSINT Tools](#osint-tools)
+- [Anonymity Tools](#anonymity-tools)
+- [Reverse Engineering Tools](#reverse-engineering-tools)
 
 ### SecTools.Org: Top 125 Network Security Tools
 
