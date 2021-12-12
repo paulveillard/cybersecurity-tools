@@ -7,7 +7,7 @@
 ## Table of Contents
 - [SecTools.Org: Top 125 Network Security Tools](#sectools-top-125-network-security-tools)
 - [Kali Tools](#kali-tools)
-- [Multi-paradigm Frameworks](#multi--paradigm-frameworks)
+- [Multi-paradigm Frameworks](#multiparadigm-frameworks)
 - [Network Vulnerability Scanners](#nework-vulnerability-scanners)
 - [Network Tools](#network-tools)
 
