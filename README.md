@@ -5,7 +5,7 @@
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Table of Contents
-- [SecTools.Org: Top 125 Network Security Tools](#sectools-top-125-network-security-tools)
+- [SecTools.Org: Top 125 Network Security Tools](https://sectools.org/))
 - [Kali Tools](#kali-tools)
 - [Multi-paradigm Frameworks](#multiparadigm-frameworks)
 - [Network Vulnerability Scanners](#nework-vulnerability-scanners)
