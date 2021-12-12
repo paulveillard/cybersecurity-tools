@@ -15,7 +15,7 @@
 - [Proxies and MITM Tools](#proxies-and-mitm-tools)
 - [Wireless Network Tools](#wireless-network-tools)
 - [Transport Layer Security Tools](#transport-layer-security-tools)
-- [Web Exploitation](#web-exploitation)
+- [Web Exploitation Tools](#web-exploitation-tools)
 - [File format Analysis tools](#file-format-analysis-tools)
 - [Anti-virus Evasion Tools](#anti--virus-evasion-tools)
 - [Hash Cracking Tools](#hash-cracking-tools)
@@ -24,6 +24,8 @@
 - [OSINT Tools](#osint-tools)
 - [Anonymity Tools](#anonymity-tools)
 - [Reverse Engineering Tools](#reverse-engineering-tools)
+- [Physical Access Tools](#physical-access-tools)
+- [More Tools](#more-tools)
 
 ### SecTools.Org: Top 125 Network Security Tools
 
@@ -196,7 +198,7 @@
 * [testssl.sh](https://github.com/drwetter/testssl.sh) - Command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
 * [crackpkcs12](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
 
-### Web Exploitation
+### Web Exploitation Tools
 
 * [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - Feature-rich, scriptable HTTP intercepting proxy and fuzzer for penetration testing web applications.
 * [Fiddler](https://www.telerik.com/fiddler) - Free cross-platform web debugging proxy with user-friendly companion tools.
