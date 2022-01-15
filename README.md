@@ -106,7 +106,7 @@
 * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range.
 * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
 
-#### Forensic
+#### `Forensic`
 
  * [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
@@ -118,7 +118,7 @@
  * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers
 
 
-#### Cryptography
+#### `Cryptography`
 
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
   
@@ -150,7 +150,7 @@
 * [ScanCannon](https://github.com/johnnyxmas/ScanCannon) - Python script to quickly enumerate large networks by calling `masscan` to quickly identify open ports and then `nmap` to gain details on the systems/services on those ports.
 * [fierce](https://github.com/mschwager/fierce) - Python3 port of the original `fierce.pl` DNS reconnaissance tool for locating non-contiguous IP space.
 
-#### Protocol Analyzers and Sniffers
+####` Protocol Analyzers and Sniffers`
 
 * [tcpdump/libpcap](http://www.tcpdump.org/) - Common packet analyzer that runs under the command line.
 * [Wireshark](https://www.wireshark.org/) - Widely-used graphical, cross-platform network protocol analyzer.
@@ -161,7 +161,7 @@
 * [Netzob](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
 * [sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
 
-#### Proxies and MITM Tools
+#### `Proxies and MITM Tools`
 
 * [dnschef](https://github.com/iphelix/dnschef) - Highly configurable DNS proxy for pentesters.
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
