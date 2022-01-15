@@ -4,7 +4,7 @@
 > A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## Table of Contents
+## `Table of Contents`
 - [SecTools.Org: Top 125 Network Security Tools](https://sectools.org/))
 - [Kali Tools](#kali-tools)
 - [Multi-paradigm Frameworks](#multiparadigm-frameworks)
@@ -27,15 +27,15 @@
 - [Physical Access Tools](#physical-access-tools)
 - [More Tools](#more-tools)
 
-### SecTools.Org: Top 125 Network Security Tools
+### `SecTools.Org: Top 125 Network Security Tools`
 
 * [List of SecTools.Org: Top 125 Network Security Tools](https://sectools.org/) - For more than a decade, the Nmap Project has been cataloguing the network security community's favorite tools.
 
-### Kali Tools
+### `Kali Tools`
 
 * [Kali Tool List](https://tools.kali.org/tools-listing) - Kali Linux Tools Listing.
 
-### Multi-paradigm Frameworks
+### `Multi-paradigm Frameworks`
 
 * [Metasploit](https://www.metasploit.com/) - Software for offensive security teams to help verify vulnerabilities and manage security assessments.
 * [Armitage](http://fastandeasyhacking.com/) - Java-based GUI front-end for the Metasploit Framework.
@@ -45,7 +45,7 @@
 * [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated mass exploiter, which collects target by employing the Shodan.io API and programmatically chooses Metasploit exploit modules based on the Shodan query.
 * [Decker](https://github.com/stevenaldinger/decker) - Penetration testing orchestration and automation framework, which allows writing declarative, reusable configurations capable of ingesting variables and using outputs of tools it has run as inputs to others.
 
-### Network Vulnerability Scanners
+### `Network Vulnerability Scanners`
 
 * [Netsparker Application Security Scanner](https://www.netsparker.com/) - Application security scanner to automatically find security flaws.
 * [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
